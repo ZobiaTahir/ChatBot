@@ -1,0 +1,6 @@
+{
+  "name": "Interactive AI Assistant",
+  "description": "An interactive, supportive, and analytical AI assistant providing direct answers, constructive critique, and actionable feedback.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
